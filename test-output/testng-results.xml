@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49248" started-at="2018-03-15T08:55:33Z" finished-at="2018-03-15T08:56:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49248" started-at="2018-03-15T08:55:33Z" finished-at="2018-03-15T08:56:23Z">
+      <class name="com.google.testtask.GMailSendLetterTest">
+        <test-method status="PASS" signature="initialize()[pri:0, instance:com.google.testtask.GMailSendLetterTest@a38d7a3]" name="initialize" is-config="true" duration-ms="47872" started-at="2018-03-15T08:55:34Z" finished-at="2018-03-15T08:56:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method status="PASS" signature="shouldGetLetterElementAndGetItTextWhenWebElementIsValid()[pri:0, instance:com.google.testtask.GMailSendLetterTest@a38d7a3]" name="shouldGetLetterElementAndGetItTextWhenWebElementIsValid" duration-ms="119" started-at="2018-03-15T08:56:21Z" finished-at="2018-03-15T08:56:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldGetLetterElementAndGetItTextWhenWebElementIsValid -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.google.testtask.GMailSendLetterTest@a38d7a3]" name="endTest" is-config="true" duration-ms="1162" started-at="2018-03-15T08:56:22Z" finished-at="2018-03-15T08:56:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+      </class> <!-- com.google.testtask.GMailSendLetterTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
